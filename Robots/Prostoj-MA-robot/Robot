@@ -1,5 +1,6 @@
 <NotepadPlus>
     <Project name="Robot MA">
         <File name="&#x041F;&#x0440;&#x043E;&#x0441;&#x0442;&#x043E;&#x0439; MA-&#x0440;&#x043E;&#x0431;&#x043E;&#x0442;.lua" />
+        <File name="Trade.lua" />
     </Project>
 </NotepadPlus>
